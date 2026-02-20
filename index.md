@@ -1,13 +1,13 @@
 ---
-layout: home
+layout: default
 title: Inicio
 ---
 
-# Jornadas de Jóvenes Futuribles - TIC 2026
+# Jornadas de Formación - TIC 2026
 
-Bienvenido/a al repositorio de materiales para las **Jornadas de Jóvenes Futuribles** de la Universidad Politécnica de Madrid.
+Bienvenido/a al repositorio de materiales para las **Jornadas de Formación** de la Universidad Politécnica de Madrid.
 
-Este curso es una introducción práctica a las Tecnologías de la Información y Comunicación (TIC), orientado a estudiantes que quieren dar sus primeros pasos en el mundo de la informática y la administración de sistemas.
+Este curso es una introducción práctica al despliegue de aplicaciones y mantenimiento de servidores web, orientado a estudiantes que quieren dar sus primeros pasos en el mundo de la administración de sistemas y trabajar con los VPS de la delegación.
 
 ---
 
