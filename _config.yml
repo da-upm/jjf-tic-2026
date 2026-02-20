@@ -1,0 +1,26 @@
+# Configuración de GitHub Pages
+title: JJF TIC 2026
+description: Materiales para las Jornadas de Jóvenes Futuribles - TIC 2026
+author: Delegación de Alumnos UPM
+
+# Tema de Jekyll
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+  - jekyll-remote-theme
+
+# URL base (descomenta si usas un subdirectorio)
+# baseurl: /jjf-tic-2026
+
+# Configuración de Markdown
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+# Excluir archivos del sitio
+exclude:
+  - README.md
+  - LICENSE
+  - .gitignore
+  - "*.odt"
+  - "*.lock*"
