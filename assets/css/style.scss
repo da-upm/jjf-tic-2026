@@ -2,3 +2,20 @@
 ---
 
 @import "{{ site.theme }}";
+
+.btn {
+  display: inline-block;
+  padding: 5px 10px;
+  margin: 5px;
+  background-color: #098f94;
+  color: white !important;
+  text-decoration: none;
+  border-radius: 6px;
+  font-weight: 500;
+  transition: background-color 0.2s;
+}
+
+.btn:hover {
+  background-color: #075ca1;
+  text-decoration: none;
+}

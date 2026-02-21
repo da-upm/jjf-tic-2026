@@ -5,9 +5,17 @@ title: Inicio
 
 # Jornadas de Formación - TIC 2026
 
-Bienvenido/a al repositorio de materiales para las **Jornadas de Formación** de la Universidad Politécnica de Madrid.
+Bienvenido/a al repositorio de materiales para las **Jornadas de Formación TIC** de la Delegación de Alumnos de la Universidad Politécnica de Madrid.
 
-Este curso es una introducción práctica al despliegue de aplicaciones y mantenimiento de servidores web, orientado a estudiantes que quieren dar sus primeros pasos en el mundo de la administración de sistemas y trabajar con los VPS de la delegación.
+Este curso es una introducción práctica al despliegue de aplicaciones y mantenimiento de servidores web, orientado a estudiantes que quieren dar sus primeros pasos en el mundo de la administración de sistemas, enfocado en trabajar con los VPS de la delegación.
+
+---
+
+## Presentaciones
+
+<a href="Presentaciones/00_BIENVENIDA.pdf" class="btn" download>Bienvenida</a>
+
+<a href="Presentaciones/01_LINUX.pdf" class="btn" download>Linux</a>
 
 ---
 
@@ -17,10 +25,11 @@ Este curso es una introducción práctica al despliegue de aplicaciones y manten
 
 | Práctica | Descripción |
 |----------|-------------|
-| [01 - Operaciones básicas](Prácticas/Linux/01_Operaciones%20básicas.md) | Navegación, archivos, permisos y búsqueda en la terminal |
-| [02 - Enlaces duros y simbólicos](Prácticas/Linux/02_Enlaces%20duros%20y%20simbólicos.md) | Gestión de enlaces en el sistema de archivos |
-| [03 - Gestión de usuarios](Prácticas/Linux/03_Gestión%20de%20usuarios.md) | Creación y administración de usuarios y grupos |
-| [04 - Instalación de aplicaciones](Prácticas/Linux/04_Instalación%20de%20aplicaciones.md) | Gestores de paquetes y software |
+| [00 - Chuleta](Practicas/Linux/00_Chuleta.html) | Cheatsheet con algunos comandos únicos |
+| [01 - Operaciones básicas](Practicas/Linux/01_Operaciones%20basicas.html) | Navegación, archivos, permisos y búsqueda en la terminal |
+| [02 - Enlaces duros y simbólicos](Practicas/Linux/02_Enlaces%20duros%20y%20simbólicos.html) | Gestión de enlaces en el sistema de archivos |
+| [03 - Gestión de usuarios](Practicas/Linux/03_Gestión%20de%20usuarios.html) | Creación y administración de usuarios y grupos |
+| [04 - Instalación de aplicaciones](Practicas/Linux/04_Instalación%20de%20aplicaciones.html) | Gestores de paquetes y software |
 
 ---
 
