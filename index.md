@@ -38,7 +38,7 @@ Este curso es una introducción práctica al despliegue de aplicaciones y manten
 | Práctica | Descripción |
 |----------|-------------|
 | [01 - DNS y HTTP](Practicas/Linux/01_DNS%20y%20HTTP.html) | Diagnóstico de un servicio no disponible |
-| [02 - SSH](Practicas/Linux/02_SSH.html) | Acceso remoto a un servidor |
+| [02 - SSH](Practicas/Protocolos%20de%20red/02_SSH.html) | Acceso remoto a un servidor |
 
 ---
 
