@@ -25,7 +25,7 @@ Este curso es una introducción práctica al despliegue de aplicaciones y manten
 
 | Práctica | Descripción |
 |----------|-------------|
-| [00 - Chuleta](Practicas/Linux/00_Chuleta.html) | Cheatsheet con algunos comandos únicos |
+| [00 - Chuleta](Practicas/Linux/00_Chuleta.html) | Cheatsheet con algunos comandos útiles |
 | [01 - Operaciones básicas](Practicas/Linux/01_Operaciones%20basicas.html) | Navegación, archivos, permisos y búsqueda en la terminal |
 | [02 - Enlaces duros y simbólicos](Practicas/Linux/02_Enlaces%20duros%20y%20simbólicos.html) | Gestión de enlaces en el sistema de archivos |
 | [03 - Gestión de usuarios](Practicas/Linux/03_Gestión%20de%20usuarios.html) | Creación y administración de usuarios y grupos |
