@@ -17,6 +17,8 @@ Este curso es una introducción práctica al despliegue de aplicaciones y manten
 
 <a href="Presentaciones/01_LINUX.pdf" class="btn" download>Linux</a>
 
+<a href="Presentaciones/02_INTERNET Y REDES.pdf" class="btn" download>Internet y Redes</a>
+
 ---
 
 ## Prácticas
@@ -30,6 +32,13 @@ Este curso es una introducción práctica al despliegue de aplicaciones y manten
 | [02 - Enlaces duros y simbólicos](Practicas/Linux/02_Enlaces%20duros%20y%20simbólicos.html) | Gestión de enlaces en el sistema de archivos |
 | [03 - Gestión de usuarios](Practicas/Linux/03_Gestión%20de%20usuarios.html) | Creación y administración de usuarios y grupos |
 | [04 - Instalación de aplicaciones](Practicas/Linux/04_Instalación%20de%20aplicaciones.html) | Gestores de paquetes y software |
+
+### Internet y Protocolos de red
+
+| Práctica | Descripción |
+|----------|-------------|
+| [01 - DNS y HTTP](Practicas/Linux/01_DNS%20y%20HTTP.html) | Diagnóstico de un servicio no disponible |
+| [02 - SSH](Practicas/Linux/02_SSH.html) | Acceso remoto a un servidor |
 
 ---
 
